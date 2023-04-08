@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM etudians WHERE age <18;
